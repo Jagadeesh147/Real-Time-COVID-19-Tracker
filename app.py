@@ -8,7 +8,7 @@ from worldmap_component import render_world_map
 # --------------------------------------------------
 st.set_page_config(
     page_title="Real-Time COVID-19 Tracker",
-    layout="wide",
+    layout="wide",  
     page_icon="🌍"
 )
 
