@@ -1,6 +1,6 @@
 import streamlit as stz                    
 import pandas as pd                                                                                               
-import requests                                                                          
+import requests                                                                              
 from worldmap_component import render_world_map                                        
  
 # --------------------------------------------------     
